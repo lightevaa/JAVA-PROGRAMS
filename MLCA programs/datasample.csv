@@ -1,0 +1,8 @@
+Employee Name,Employee Number,Title,Department,Supervisor,Status,Week Of,Date,Start Time,End Time,Regular Hours,Overtime Hours,Total Hours
+Michelle Wattz,2937663,Project Manager,Document Processing,KD,Full-time,5.08.XX - 5.14.XX,5-08-XX,8:00 AM,5:00 PM,8.0,0.0,8.0
+Michelle Wattz,2937663,Project Manager,Document Processing,KD,Full-time,5.08.XX - 5.14.XX,5-09-XX,8:00 AM,5:00 PM,8.0,0.0,8.0
+Michelle Wattz,2937663,Project Manager,Document Processing,KD,Full-time,5.08.XX - 5.14.XX,5-10-XX,8:00 AM,5:00 PM,8.0,2.0,10.0
+Michelle Wattz,2937663,Project Manager,Document Processing,KD,Full-time,5.08.XX - 5.14.XX,5-11-XX,8:00 AM,5:00 PM,8.0,0.0,8.0
+Michelle Wattz,2937663,Project Manager,Document Processing,KD,Full-time,5.08.XX - 5.14.XX,5-12-XX,8:00 AM,5:00 PM,8.0,0.0,8.0
+Michelle Wattz,2937663,Project Manager,Document Processing,KD,Full-time,5.08.XX - 5.14.XX,5-13-XX,N/A,N/A,0.0,0.0,0.0
+Michelle Wattz,2937663,Project Manager,Document Processing,KD,Full-time,5.08.XX - 5.14.XX,5-14-XX,N/A,N/A,0.0,0.0,0.0 
